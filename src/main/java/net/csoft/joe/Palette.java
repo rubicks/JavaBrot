@@ -1,3 +1,5 @@
+package net.csoft.joe;
+
 public class Palette
 {
   public int color[];

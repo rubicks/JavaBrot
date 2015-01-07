@@ -1,3 +1,5 @@
+package net.csoft.joe;
+
 public class Int
 {
   public static int max(int a, int b)

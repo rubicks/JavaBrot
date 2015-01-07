@@ -1,5 +1,7 @@
 // Copyright (c) 2013 Joe Davisson.
 
+package net.csoft.joe;
+
 import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;

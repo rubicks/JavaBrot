@@ -1,5 +1,7 @@
 // Copyright (c) 2012 Joe Davisson. All Rights Reserved.
 
+package net.csoft.joe;
+
 import java.awt.event.*;
 
 public class Input implements KeyListener, MouseListener, MouseMotionListener

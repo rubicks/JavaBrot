@@ -1,3 +1,5 @@
+package net.csoft.joe;
+
 public class RgbColor
 {
   public int r, g, b;

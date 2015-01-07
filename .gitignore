@@ -1,0 +1,5 @@
+# JavaBrot/.gitignore
+
+*~
+/.gradle/
+/build/

@@ -1,3 +1,5 @@
+package net.csoft.joe;
+
 public class Blend
 {
   public static final int NORMAL = 0;

@@ -1,3 +1,5 @@
+package net.csoft.joe;
+
 public class Col
 {
   private static RgbColor rgb = new RgbColor();   

@@ -1,5 +1,7 @@
 // Copyright (c) 2012 Joe Davisson. All Rights Reserved.
 
+package net.csoft.joe;
+
 public class Screen
 {
   // applet dimensions (defined in html file)

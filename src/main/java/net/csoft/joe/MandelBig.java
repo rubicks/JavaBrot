@@ -1,3 +1,5 @@
+package net.csoft.joe;
+
 import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;

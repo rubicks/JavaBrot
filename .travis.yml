@@ -1,0 +1,19 @@
+# JavaBrot/.travis.yml
+
+language: java
+
+jdk:
+  - openjdk7
+  - oraclejdk7
+  - oraclejdk8
+
+before_install:
+  - uname -a
+  - lsb_release --all
+
+install:
+  - sudo apt-get -qq install gradle
+
+script:
+  - gradle build
+
