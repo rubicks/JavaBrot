@@ -16,4 +16,5 @@ install:
 
 script:
   - gradle build
+  - grable jar
 
