@@ -4,3 +4,8 @@ apply plugin: 'application'
 
 mainClassName = "net.csoft.joe.JavaBrot"
 
+jar {
+    manifest {
+        attributes 'Main-Class': 'net.csoft.joe.JavaBrot'
+    }
+}
